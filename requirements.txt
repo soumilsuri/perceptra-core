@@ -1,0 +1,33 @@
+# requirements.txt
+
+# Core libraries
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+
+# Data handling and manipulation
+pandas==2.2.3
+numpy==1.26.4
+
+# Image and video processing
+opencv-python==4.10.0.84
+
+# Audio processing
+soundfile==0.12.1
+
+# Natural Language Processing
+transformers==4.46.3
+
+# Utilities
+tqdm==4.65.0
+scipy==1.12.0
+
+# AWS and SageMaker
+# boto3==1.35.76
+# sagemaker==2.237.0
+
+# TensorBoard for visualization
+tensorboard==2.18.0
+
+# Metrics and evaluation
+scikit-metrics==0.1.0
